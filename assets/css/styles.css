@@ -94,3 +94,7 @@ li {
 }
 
 .fa { font-size: initial; }
+
+a {
+	color: rgb(25, 0, 255);
+}
